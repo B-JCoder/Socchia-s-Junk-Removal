@@ -23,6 +23,14 @@ export function HeroSection() {
       <div className="absolute inset-0 z-0">
         <div className="w-full h-full bg-black"></div>
         <div className="absolute inset-0 bg-black/50"></div>
+     <div className="absolute inset-0 z-0">
+        <img
+          src="/images/e1 (5).jpg"
+          alt="Falcon Auto Detail - Drive in Style"
+          className="w-full h-full object-cover object-center"
+        />
+        <div className="absolute inset-0 bg-black/70"></div>
+      </div>
       </div>
 
       {/* Content */}
